@@ -1,4 +1,4 @@
-const API_URL = "https://DEIN-BACKEND.onrender.com";
+const API_URL = "https://loader-3vpg.onrender.com";
 
 function loadPosts() {
   const username = document.getElementById("username").value;
